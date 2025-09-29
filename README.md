@@ -1,4 +1,7 @@
-Hi 👋, I'm SRI DHARSHINI T
+Hi 👋, 
+
+I'm SRI DHARSHINI T
+
 Aspiring Data Analyst | Skilled in SQL, Excel, Python, Power BI|
 
 🔭 I’m currently working on SQL Retail Sales Analysis Project
@@ -14,8 +17,13 @@ Aspiring Data Analyst | Skilled in SQL, Excel, Python, Power BI|
 📫 How to reach me sridharshinithangaraj@gmail.com
 
 Languages and Tools:
+
 c
+
 java
+
 matlab
+
 mysql
+
 python
