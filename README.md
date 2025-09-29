@@ -17,13 +17,8 @@ Aspiring Data Analyst | Skilled in SQL, Excel, Python, Power BI|
 📫 How to reach me sridharshinithangaraj@gmail.com
 
 Languages and Tools:
-
 c
-
 java
-
 matlab
-
 mysql
-
 python
