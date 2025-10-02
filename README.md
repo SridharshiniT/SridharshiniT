@@ -2,7 +2,7 @@ Hi 👋,
 
 I'm SRI DHARSHINI T
 
-Aspiring Data Analyst | Skilled in SQL, Excel, Python, Power BI|
+Aspiring Data Analyst | Skilled in SQL, Excel, Python, Power BI |
 
 🔭 I’m currently working on SQL Retail Sales Analysis Project
 
